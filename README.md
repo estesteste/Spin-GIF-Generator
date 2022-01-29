@@ -1,4 +1,4 @@
 # Spin-GIF-Generator
-===============	
-Generador de GIFS en español.
+
+## Generador de GIFS en español.
 
